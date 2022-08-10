@@ -9,4 +9,4 @@ Likes to lift weights
 - ➕ High stamina
 - ➖ Can't fight without drinking a protein shake first
 
-![Gyman](../Images/Gyman.jpg)
+![Gyman](../Images/Gyman.jpeg)
