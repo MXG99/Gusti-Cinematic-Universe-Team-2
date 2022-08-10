@@ -1,6 +1,6 @@
 # The Lion 
 
-He's known as a normal guy, but the moment you'll try to attack his principles, you'll get to see why he's called The Lion. He's really concerned about security, so he never posts his pic online, he replaces it with a pic that represents his nickname. He's LambLike's half brother.
+He's known as a normal guy, but the moment you'll try to attack his principles, you'll get to see why he's called The Lion. He's really concerned about security, so he never posts his pic online, he replaces it with a pic that represents his nickname. He's Lamb Like's half brother.
 
 ## Powers and weaknesses
 
