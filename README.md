@@ -4,6 +4,7 @@ Movies
 ======
 
 * [Apocalyptic Gun](/Movies/Apocalyptic-Gun.md)
+  ------------------------------
 * [Unseen Battle](/Movies/UnseenBattle.md)
   ------------------------------
 
