@@ -7,7 +7,7 @@
 
 ## Characters
 
-- [TheLion](../Heroes/TheLion.md)
-- [LambLike](../Heroes/LambLike.md)
-- [SerpentKing](../Villains/SerpentKing.md)
-- [FoxFighter](../Villains/FoxFighter.md)
+- [The Lion](../Heroes/TheLion.md)
+- [Lamb Like](../Heroes/LambLike.md)
+- [Serpent King](../Villains/SerpentKing.md)
+- [Fox Fighter](../Villains/FoxFighter.md)
