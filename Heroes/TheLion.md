@@ -9,4 +9,4 @@ He's known as a normal guy, but the moment you'll try to attack his principles, 
 - ➕ Empathy
 - ➖ Stutters sometimes
 
-![<img src="../Images/LionMan.jpg" width="250"/>](../Images/LionMan.jpg)
+[<img src="../Images/LionMan.jpg" width="250"/>](../Images/LionMan.jpg)
