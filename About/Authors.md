@@ -10,5 +10,5 @@
 |   [Daniel Albu](https://github.com/DanielAlbu1)   |  Rol  |         Email         |
 |     [George Balotă](https://github.com/MXG99)     |  Rol  | george99.bl@gmail.com |
 |     [Radu Tănase](https://github.com/RaduTns)     |  Rol  |         Email         |
-|    [Teodora Puițel](https://github.com/TeoP2)     |  Rol  |         Email         |
+|    [Teodora Puițel](https://github.com/TeoP2)     |  Rol  |         teopui02@gmail.com         |
 
