@@ -3,7 +3,8 @@
 Movies
 ======
 
-*[Apocalyptic Gun](/Movies/Apocalyptic-Gun.md)
+* [Apocalyptic Gun](/Movies/Apocalyptic-Gun.md)
+  ------------------------------
 
 About
 ======
