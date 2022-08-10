@@ -5,5 +5,5 @@ About
 
 
 
-* [Authors](./About/Authors)
+* [Authors](./About/Authors.md)
   ------------------------------
