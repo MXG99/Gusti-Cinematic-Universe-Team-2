@@ -6,6 +6,6 @@ In a parallel world of Spider-Man, the ultimate hero Spider-Spartan found himsel
 ## Characters
 
 - [The Twins](../Heroes/TheTwins.md)
-- [Spider-Spartan](../Heroes/SpiderSpartan.md)
+- [Spider-Spartan](../Heroes/TheSpiderSpartan.md)
 - [Big Boy](../Villains/BigBoy.md)
 - [Brain Destroyer Ant](../Villains/BrainDestroyerAnt.md)

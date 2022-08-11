@@ -8,4 +8,4 @@ Spirits from the Holocaust that remained on earth to help humanity
 - ➕ They are spirits so can't be touched
 - ➖ They can be destroyed with sunlight
 
-![The Twins](../Images/TheTwins.jpg)
+![The Twins](../Images/TheTwins.png)
